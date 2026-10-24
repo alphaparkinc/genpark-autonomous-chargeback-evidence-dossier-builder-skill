@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-chargeback-evidence-dossier-builder-skill",
+  "version": "1.0.0",
+  "description": "Autonomous FinTech dispute response builder compiling evidentiary weights, win probabilities, and bank packets",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["chargeback-defense", "dispute-arbitration", "fintech", "evidence-packet", "visa-mastercard", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
